@@ -1,0 +1,52 @@
+{
+  "decks": [
+    {
+      "name": "POT OF GREED",
+      "description": "ALLOWS ME TO DRAW 3 ADDITIONAL CARDS FROM MY DECK!",
+      "id": 1
+    },
+    {
+      "name": "Derm",
+      "description": "orange",
+      "id": 3
+    }
+  ],
+  "cards": [
+    {
+      "front": "Give orange",
+      "back": "GIve ORanGe",
+      "deckId": 3,
+      "id": 1
+    },
+    {
+      "front": "buh",
+      "back": "buh",
+      "deckId": 1,
+      "id": 2
+    },
+    {
+      "front": "asdasd",
+      "back": "asdasd",
+      "deckId": 1,
+      "id": 3
+    },
+    {
+      "front": "asdasd",
+      "back": "asdasd",
+      "deckId": 1,
+      "id": 4
+    },
+    {
+      "front": "asd",
+      "back": "asd",
+      "deckId": 1,
+      "id": 5
+    },
+    {
+      "front": "a",
+      "back": "aaaaa",
+      "deckId": 1,
+      "id": 6
+    }
+  ]
+}
